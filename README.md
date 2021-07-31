@@ -6,6 +6,7 @@ To use the library:-
 
 include "DSU.h" in your source file.
 following functionalities are provided:
+
 a. construct DSU with n groups.
 
 b. add new group to the DSU.
